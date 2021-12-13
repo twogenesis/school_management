@@ -55,30 +55,6 @@
                                 </td>
                             </tr>
                         </c:forEach>
-                        <!--
-                        <tr>
-                            <td>1234</td>
-                            <td>컴퓨터 공학과</td>
-                            <td>120</td>
-                            <td>2021-12-10 11:11:00</td>
-                            <td>2021-12-10 11:11:00</td>
-                            <td>
-                                <button class="modify_btn"><i class="fas fa-pencil-alt"></i></button>
-                                <button class="delete_btn"><i class="fas fa-minus-circle"></i></button>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>1234</td>
-                            <td>컴퓨터 공학과</td>
-                            <td>120</td>
-                            <td>2021-12-10 11:11:00</td>
-                            <td>2021-12-10 11:11:00</td>
-                            <td>
-                                <button class="modify_btn"><i class="fas fa-pencil-alt"></i></button>
-                                <button class="delete_btn"><i class="fas fa-minus-circle"></i></button>
-                            </td>
-                        </tr>
-                        -->
                     </tbody>
                 </table>
             </div>
